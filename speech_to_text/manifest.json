@@ -1,0 +1,10 @@
+{
+	"name" : "speech plugin",
+	"version" : "1.0",
+	"description" : "a simple speech plugin",
+	"manifest_version":2,
+	"browser_action" :{
+	"default_icon" : "speech.png",
+	"default_popup":"speech.html"
+ }
+}

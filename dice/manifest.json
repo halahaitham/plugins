@@ -1,0 +1,10 @@
+{
+	"name" : "truth or dare",
+	"version" : "1.0",
+	"description" : "a simple game",
+	"manifest_version":2,
+	"browser_action" :{
+	"default_icon" : "iccon.png",
+	"default_popup":"popup.html"
+ }
+}
